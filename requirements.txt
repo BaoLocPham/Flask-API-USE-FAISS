@@ -1,0 +1,8 @@
+flask
+flask_restful
+flask_cors
+tensorflow
+tensorflow_hub
+faiss-cpu
+numpy
+pandas
